@@ -1,3 +1,5 @@
+// eslint-disable-next-line react-hooks/exhaustive-deps
+
 import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import s from './ImageGallery.module.css';
